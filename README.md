@@ -4,6 +4,10 @@
 
 Repositório desenvolvido para a elaboração desafio de projeto do curso de Python do Bootcamp de Python AI Backend Developer **Otimizando o Sistema Bancário com Funções Python** da [Digital Innovation One](https://www.dio.me/).
 
+### 📌 Desafios Anteriores
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jbrandaosilva&repo=Desafio_de_Projeto_DIO_Sistema_Bancario)](https://github.com/jbrandaosilva/Desafio_de_Projeto_DIO_Sistema_Bancario)
+
 ### Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
